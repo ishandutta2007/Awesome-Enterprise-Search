@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Search?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Search?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Search?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -106,11 +106,11 @@ The table below benchmarks category-leading enterprise SaaS search platforms, **
 
 The open-source enterprise search landscape enables organizations to build sovereign, air-gapped search architectures without per-query metering or SaaS license lock-in. 
 
-*Repositories below are **sorted in descending order by GitHub Stars**.*
+*Repositories below are **sorted in descending order by GitHub_Stars**.*
 
 ---
 
-### 1. 🌟 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
+### 1. 🌟 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Python
 - **Summary:** An open-source RAG engine based on deep document understanding. Extracts complex formatting, multi-column layouts, tables, and charts from unstructured enterprise PDFs and slides to construct a grounded context layer for LLMs.
 - **Enterprise Capabilities:** Visual document chunking with DeepDoc OCR, hybrid BM25 + vector retrieval, multi-engine support, and verifiable citation bounding boxes.
@@ -118,7 +118,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 2. 🌟 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
+### 2. 🌟 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 - **License:** Elastic License 2.0 / SSPL | **Primary Language:** Java
 - **Summary:** The foundational distributed, RESTful search and analytics engine that powers thousands of enterprise search platforms worldwide.
 - **Enterprise Capabilities:** Hybrid lexical + dense vector search, Reciprocal Rank Fusion (RRF), native Lucene inverted indexing, horizontal sharding, and cross-cluster replication.
@@ -126,7 +126,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 3. 🌟 [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
+### 3. 🌟 [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
 - **License:** MIT | **Primary Language:** Rust
 - **Summary:** A lightning-fast, typo-tolerant search engine API bringing AI-powered hybrid search to customer-facing applications and corporate wikis.
 - **Enterprise Capabilities:** Sub-50ms query response times, zero-configuration deployment, semantic vector search, federated search across multi-tenant indices, and geo-search.
@@ -134,7 +134,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 4. 🌟 [Milvus](https://github.com/milvus-io/milvus) [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)
+### 4. 🌟 [Milvus](https://github.com/milvus-io/milvus) [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Go / C++
 - **Summary:** Cloud-native, high-performance distributed vector database built specifically for massive-scale similarity search and AI applications.
 - **Enterprise Capabilities:** Billion-scale approximate nearest neighbor (ANN) search, hybrid retrieval with sparse vector support, GPU acceleration, and disaggregated compute/storage architecture.
@@ -142,7 +142,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 5. 🌟 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
+### 5. 🌟 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
 - **License:** AGPL-3.0 | **Primary Language:** Python
 - **Summary:** Self-hostable AI second brain and enterprise assistant. Searches personal notes, internal documentation, PDFs, and web links with conversational agents.
 - **Enterprise Capabilities:** Offline local LLM compatibility (Ollama, llama.cpp), scheduled automations, deep research workflows, and browser extensions.
@@ -150,7 +150,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 6. 🌟 [Qdrant](https://github.com/qdrant/qdrant) [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)
+### 6. 🌟 [Qdrant](https://github.com/qdrant/qdrant) [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Rust
 - **Summary:** Production-grade vector database and search engine with extended filtering support, built in Rust for memory safety and raw throughput.
 - **Enterprise Capabilities:** Payload-based boolean filtering during vector search, quantization (scalar &amp; binary), hybrid dense-sparse retrieval, and snapshot backups.
@@ -158,7 +158,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 7. 🌟 [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
+### 7. 🌟 [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx) [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
 - **License:** MIT | **Primary Language:** Python / TypeScript
 - **Summary:** The premier open-source generative AI and workplace search platform. Connects to 40+ enterprise tools (Google Drive, Slack, Confluence, GitHub, Jira, Notion) and provides a private ChatGPT-like conversational assistant.
 - **Enterprise Capabilities:** Document-level access control (RBAC), hybrid BM25 + dense embedding retrieval, Slack/Teams bot integration, user query analytics, and air-gapped Docker/Kubernetes deployment.
@@ -166,7 +166,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 8. 🌟 [Typesense](https://github.com/typesense/typesense) [![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)
+### 8. 🌟 [Typesense](https://github.com/typesense/typesense) [![GitHub_Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)
 - **License:** GPL-3.0 | **Primary Language:** C++
 - **Summary:** Open-source, in-memory alternative to Algolia and an easier-to-manage alternative to Elasticsearch for typo-tolerant, instantaneous search.
 - **Enterprise Capabilities:** In-memory indexing, built-in vector search and embedding generation, typo-tolerance algorithms, automatic high availability clustering, and geo-search.
@@ -174,7 +174,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 9. 🌟 [Weaviate](https://github.com/weaviate/weaviate) [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)
+### 9. 🌟 [Weaviate](https://github.com/weaviate/weaviate) [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)
 - **License:** BSD-3-Clause | **Primary Language:** Go
 - **Summary:** Cloud-native, modular vector database that stores both raw objects and vector embeddings, supporting seamless vector search combined with structured filtering.
 - **Enterprise Capabilities:** Native modules for HuggingFace, OpenAI, Cohere, and local models; GraphQL and REST APIs; multi-modal vector search; and horizontal scalability.
@@ -182,7 +182,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 10. 🌟 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
+### 10. 🌟 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Summary:** Community-driven, 100% open-source search and analytics suite forked from Elasticsearch and Kibana, backed by AWS, SAP, and Red Hat.
 - **Enterprise Capabilities:** Neural search plugin, k-NN vector search, asynchronous search, fine-grained access control with OpenSearch Security, SQL/PPL querying, and index state management.
@@ -190,7 +190,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 11. 🌟 [Quickwit](https://github.com/quickwit-oss/quickwit) [![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)
+### 11. 🌟 [Quickwit](https://github.com/quickwit-oss/quickwit) [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)
 - **License:** AGPL-3.0 / Apache-2.0 | **Primary Language:** Rust
 - **Summary:** Cloud-native search engine designed for massive-scale text search and log/trace analytics directly over object storage (Amazon S3, Google Cloud Storage, MinIO).
 - **Enterprise Capabilities:** Sub-second queries directly on object storage without local disk indexing, stateless searcher instances, sub-linear indexing costs, and Tantivy engine core.
@@ -198,7 +198,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 12. 🌟 [Vespa](https://github.com/vespa-engine/vespa) [![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
+### 12. 🌟 [Vespa](https://github.com/vespa-engine/vespa) [![GitHub_Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** C++ / Java
 - **Summary:** The battle-tested AI search and recommendation engine developed by Yahoo, powering large-scale, low-latency evaluation of ML models over billions of documents.
 - **Enterprise Capabilities:** Native multi-phase ranking with neural networks, real-time index writes with immediate read visibility, hybrid search, and tensor computation at query time.
@@ -206,7 +206,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 13. 🌟 [Infinity](https://github.com/infiniflow/infinity) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
+### 13. 🌟 [Infinity](https://github.com/infiniflow/infinity) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** C++
 - **Summary:** AI-native database engineered for LLM applications, providing ultra-fast hybrid search across dense vectors, sparse vectors, multi-vector tensors (ColBERT), and full-text BM25.
 - **Enterprise Capabilities:** Sub-millisecond hybrid retrieval, zero-copy memory architecture, disk-backed HNSW indexing, and unified query planner.
@@ -214,7 +214,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 14. 🌟 [Apache Lucene](https://github.com/apache/lucene) [![GitHub stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
+### 14. 🌟 [Apache Lucene](https://github.com/apache/lucene) [![GitHub_Stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Summary:** The foundational Java library that serves as the gold standard for full-text indexing and retrieval algorithms worldwide (powering Solr, Elasticsearch, and OpenSearch).
 - **Enterprise Capabilities:** Inverted index architecture, BM25 scoring, HNSW vector search support, custom tokenizers, and spatial/faceted indexing.
@@ -222,7 +222,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 15. 🌟 [Gerev AI](https://github.com/GerevAI/gerev) [![GitHub stars](https://img.shields.io/github/stars/GerevAI/gerev?style=social&color=white)](https://github.com/GerevAI/gerev/stargazers)
+### 15. 🌟 [Gerev AI](https://github.com/GerevAI/gerev) [![GitHub_Stars](https://img.shields.io/github/stars/GerevAI/gerev?style=social&color=white)](https://github.com/GerevAI/gerev/stargazers)
 - **License:** MIT | **Primary Language:** Python
 - **Summary:** Open-source AI-powered enterprise search engine designed for workplace knowledge discovery. Indexes internal communication and wikis to surface direct answers.
 - **Enterprise Capabilities:** Confluence, Slack, Google Drive, and Jira connectors; vector indexing; and conversational UI.
@@ -230,7 +230,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 16. 🌟 [SeekStorm](https://github.com/SeekStorm/SeekStorm) [![GitHub stars](https://img.shields.io/github/stars/SeekStorm/SeekStorm?style=social&color=white)](https://github.com/SeekStorm/SeekStorm/stargazers)
+### 16. 🌟 [SeekStorm](https://github.com/SeekStorm/SeekStorm) [![GitHub_Stars](https://img.shields.io/github/stars/SeekStorm/SeekStorm?style=social&color=white)](https://github.com/SeekStorm/SeekStorm/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Rust
 - **Summary:** Sub-millisecond vector and full-text lexical search library and multi-tenancy standalone server written in Rust.
 - **Enterprise Capabilities:** In-process embedded library or standalone HTTP server, ultra-low RAM footprint, real-time index mutation, and sub-millisecond execution.
@@ -238,7 +238,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 17. 🌟 [Apache Solr](https://github.com/apache/solr) [![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers)
+### 17. 🌟 [Apache Solr](https://github.com/apache/solr) [![GitHub_Stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Summary:** Mature, highly reliable enterprise search server built on Apache Lucene, providing distributed indexing, advanced schema definitions, and XML/JSON APIs.
 - **Enterprise Capabilities:** SolrCloud distributed architecture, ZooKeeper cluster coordination, complex faceted navigation, spatial search, and rich document parsing (Apache Tika).
@@ -246,7 +246,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 18. 🌟 [Fess](https://github.com/codelibs/fess) [![GitHub stars](https://img.shields.io/github/stars/codelibs/fess?style=social&color=white)](https://github.com/codelibs/fess/stargazers)
+### 18. 🌟 [Fess](https://github.com/codelibs/fess) [![GitHub_Stars](https://img.shields.io/github/stars/codelibs/fess?style=social&color=white)](https://github.com/codelibs/fess/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Summary:** Easily deployable, full-featured enterprise search server built on top of OpenSearch/Elasticsearch with extensive out-of-the-box crawlers.
 - **Enterprise Capabilities:** Web, file system, and database crawlers; Active Directory and LDAP role-based search filtering; support for 20+ languages; and document parsing.
@@ -254,7 +254,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 19. 🌟 [Coco AI (Infinilabs)](https://github.com/infinilabs/coco-app) [![GitHub stars](https://img.shields.io/github/stars/infinilabs/coco-app?style=social&color=white)](https://github.com/infinilabs/coco-app/stargazers)
+### 19. 🌟 [Coco AI (Infinilabs)](https://github.com/infinilabs/coco-app) [![GitHub_Stars](https://img.shields.io/github/stars/infinilabs/coco-app?style=social&color=white)](https://github.com/infinilabs/coco-app/stargazers)
 - **License:** MIT | **Primary Language:** Go / TypeScript
 - **Summary:** Integrated enterprise search, connection, and personal AI assistant workspace designed by the Infinilabs engineering team.
 - **Enterprise Capabilities:** Unified multi-source search interface, local desktop integration, and integrated AI assistant chat.
@@ -262,7 +262,7 @@ The open-source enterprise search landscape enables organizations to build sover
 
 ---
 
-### 20. 🌟 [Turing ES (Viglet)](https://github.com/openviglet/turing-ce) [![GitHub stars](https://img.shields.io/github/stars/openviglet/turing-ce?style=social&color=white)](https://github.com/openviglet/turing-ce/stargazers)
+### 20. 🌟 [Turing ES (Viglet)](https://github.com/openviglet/turing-ce) [![GitHub_Stars](https://img.shields.io/github/stars/openviglet/turing-ce?style=social&color=white)](https://github.com/openviglet/turing-ce/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Summary:** Open-source enterprise search and generative AI platform featuring faceted semantic search, hybrid BM25 + vector ranking with Reciprocal Rank Fusion, and RAG chat with inline citations.
 - **Enterprise Capabilities:** Multi-engine abstraction (Apache Solr, Elasticsearch, embedded Lucene), Viglet Dumont connectors for Adobe AEM and WordPress, MCP tool agents, and air-gapped readiness.
@@ -304,7 +304,7 @@ Contributions from search engineers, data architects, and open-source enthusiast
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-search-engine`
 3. 📝 **Add or Update Entries in `README.md`**:
    - For **SaaS platforms**: Include platform name, official URL, company scale (valuation/revenue), specific starting tier pricing, and exact free tier/trial limits.
-   - For **Open-Source projects**: Include repository URL, social star badge (`style=social&color=white`) linking to `/stargazers`, license, and concise technical summary. Ensure repositories remain sorted descending by star count.
+   - For **Open-Source projects**: Include repository URL, social Stars_Badge (`style=social&color=white`) linking to `/stargazers`, license, and concise technical summary. Ensure repositories remain sorted descending by Stars_Count.
 4. ✅ **Ensure Consistent Formatting, Markdown Standards, and Working Links**.
 5. 🚀 **Submit a Pull Request**: Provide a clear explanation of the addition and relevant source citations.
 
