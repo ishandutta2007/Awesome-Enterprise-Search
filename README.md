@@ -70,6 +70,7 @@ The table below benchmarks category-leading enterprise SaaS search platforms, **
 | **[Coveo Relevance Cloud](https://www.coveo.com/)** | **~$520 Million** Market Cap<br>(~$700M CAD, ~$125M ARR, TSX: CVO) | **~$600.00 / month**<br>(Billed annually; includes base package of 100k queries/month and 100k indexed items) | **14-day free trial** with access to Relevance Cloud administration console and search UI builder (no credit card required) | AI-powered relevance platform combining keyword, dense vector, and generative answering across service desks, portals, and intranets. |
 | **[Lucidworks Fusion](https://lucidworks.com/)** | **~$300 Million** Valuation<br>(~$75M ARR, backed by Francisco Partners) | **~$28,000 / year (~$2,333.33 / month)**<br>(Baseline enterprise license; contracts scale to $79,000+ based on index volume) | **No public free tier**; sales-assisted evaluation POC environment available for qualified enterprise architecture teams | Highly configurable Apache Solr-based search engine with clickstream machine learning re-ranking and custom connector pipelines. |
 | **[Guru](https://www.getguru.com/)** | **~$250 Million** Valuation<br>(~$25M+ ARR, Series C) | **$15.00 / user / month**<br>(All-in-one AI Search and Knowledge Base tier billed annually) | **30-day fully featured free trial** (unlimited users &amp; queries, no credit card required); Free starter plan for up to 3 users | Slack, Teams, and browser-integrated knowledge search delivering verified single-source-of-truth answers across internal apps. |
+| **[Enhanciar](https://enhanciar.in)** | **Bootstrapped**<br>(founded 2026, team of 1-10) | **$35.00 / month**<br>(per person, or $315 a year paid once; Enterprise custom) | **None**; paid plans only, users bring their own Gemini, OpenAI or Anthropic key | Company brain that answers from Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for a person to approve. |
 
 ---
 
@@ -99,6 +100,8 @@ The table below benchmarks category-leading enterprise SaaS search platforms, **
   Enterprise search platform built on Apache Solr that grants platform engineers complete governance over query pipelines, ranking formulas, ML click re-ranking, and custom security plugins.
 - **[Guru](https://www.getguru.com/)**  
   Collaborative knowledge management and AI search tool that sits directly inside employee workflows (Chrome, Slack, Microsoft Teams), surfacing verified answers without tab switching.
+- **[Enhanciar](https://enhanciar.in)**  
+  Connects to Slack, Gmail, Google Drive, Notion, Jira, Linear, GitHub, Zendesk and Postgres. Ask any question and get a straight answer with a link to every source, then approve the drafted follow-up (reply, ticket, doc or calendar event).
 
 ---
 
